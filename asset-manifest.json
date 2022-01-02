@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.6e40410a.chunk.css",
+  "main.js": "/static/js/main.e9c9c802.chunk.js",
+  "main.js.map": "/static/js/main.e9c9c802.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.052cc549.chunk.css": "/static/css/2.052cc549.chunk.css",
+  "static/js/2.7818ca11.chunk.js": "/static/js/2.7818ca11.chunk.js",
+  "static/js/2.7818ca11.chunk.js.map": "/static/js/2.7818ca11.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a4d344ffe95c1abe1363308850f7db3a.js": "/precache-manifest.a4d344ffe95c1abe1363308850f7db3a.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.052cc549.chunk.css.map": "/static/css/2.052cc549.chunk.css.map",
+  "static/css/main.6e40410a.chunk.css.map": "/static/css/main.6e40410a.chunk.css.map",
+  "static/media/auth.svg": "/static/media/auth.52ecff6c.svg",
+  "static/media/forget.svg": "/static/media/forget.8b8a8dc6.svg",
+  "static/media/login.svg": "/static/media/login.bad19771.svg",
+  "static/media/reset.svg": "/static/media/reset.8f55d1cb.svg",
+  "static/media/update.svg": "/static/media/update.0ae84278.svg",
+  "static/media/welcome.svg": "/static/media/welcome.48a94696.svg"
+}
